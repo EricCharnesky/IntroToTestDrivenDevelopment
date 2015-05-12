@@ -1,0 +1,21 @@
+[
+    "index.md",
+    "process.md",
+    "begin-with-the-end-in-mind.md",
+    "design-you-classes.md",
+    [
+        "write-a-test.md",
+        "i-prefer-this-way.md",
+        "write-stub-classes.md",
+        "right-click-magic.md",
+        "accept-the-defaults.md",
+        "check-the-box.md",
+        "test-code-stubs-appear.md"
+    ],
+    "make-sure-they-fail.md",
+    "write-code-to-make-the-tests-pass.md",
+    "run-the-tests.md",
+    "refactor.md",
+    "bankaccount-example.html",
+    "sources.md"
+]

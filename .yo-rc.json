@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "IntroToTestDrivenDevelopment",
+    "packageVersion": "0.0.0",
+    "revealTheme": "default",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "ericcharnesky",
+    "githubRepository": "IntroToTestDrivenDevelopment"
+  }
+}
