@@ -1,3 +1,3 @@
 ##  Accept the defaults
 
-![Menu1](NewJUnitTestCasePage1.jpg)
+![Menu1](assets/NewJUnitTestCasePage1.jpg)

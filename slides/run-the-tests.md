@@ -1,3 +1,3 @@
 ##  Run the tests
 
-![Run](TestsPass.jpg)
+![Run](assets/TestsPass.jpg)

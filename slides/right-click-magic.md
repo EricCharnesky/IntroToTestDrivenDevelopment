@@ -1,3 +1,3 @@
 ##  Right click magic
 
-![right click](NewJUnitTestCase.jpg)
+![right click](assets/NewJUnitTestCase.jpg)
