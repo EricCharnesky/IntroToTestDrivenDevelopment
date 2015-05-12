@@ -1,4 +1,4 @@
-##  Design you classes
+##  Design your classes
 
 Design is not wasted time, but writing poorly designed code is.
 
