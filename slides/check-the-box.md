@@ -1,3 +1,3 @@
 ##  Check the box
 
-![Menu2](NewJUnitTestCasePage2.jpg)
+![Menu2](assets/NewJUnitTestCasePage2.jpg)
